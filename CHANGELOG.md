@@ -1,3 +1,12 @@
+# [5.1.0](https://github.com/stylelint-types/stylelint-scales/compare/v5.0.0...v5.1.0) (2026-01-17)
+
+
+### Features
+
+* support stylelint v17 ([82ebff6](https://github.com/stylelint-types/stylelint-scales/commit/82ebff62a4762aa334e0add2fe350e6b863e19a2))
+
+
+
 # [5.0.0](https://github.com/stylelint-types/stylelint-scales/compare/v4.0.0...v5.0.0) (2025-04-19)
 
 
