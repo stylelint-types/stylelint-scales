@@ -1,29 +1,25 @@
-# [5.1.0](https://github.com/stylelint-types/stylelint-scales/compare/v5.0.0...v5.1.0) (2026-01-17)
-
+# [6.0.0](https://github.com/stylelint-types/stylelint-scales/compare/v5.1.0...v6.0.0) (2026-11-12)
 
 ### Features
 
-* support stylelint v17 ([82ebff6](https://github.com/stylelint-types/stylelint-scales/commit/82ebff62a4762aa334e0add2fe350e6b863e19a2))
+- upgrade stylelint to `v18` ([3a38fc3](https://github.com/stylelint-types/stylelint-scales/commit/3a38fc302d00f1a096612ed495f7172a12b778f2))
 
+# [5.1.0](https://github.com/stylelint-types/stylelint-scales/compare/v5.0.0...v5.1.0) (2026-01-17)
 
+### Features
+
+- support stylelint v17 ([82ebff6](https://github.com/stylelint-types/stylelint-scales/commit/82ebff62a4762aa334e0add2fe350e6b863e19a2))
 
 # [5.0.0](https://github.com/stylelint-types/stylelint-scales/compare/v4.0.0...v5.0.0) (2025-04-19)
 
-
 ### Performance Improvements
 
-* bump stylelint to `16.2.1` ([085dc1e](https://github.com/stylelint-types/stylelint-scales/commit/085dc1e7cc85b92567f5a41896a5885163f77480))
-* update deps to latest ([e71be56](https://github.com/stylelint-types/stylelint-scales/commit/e71be568ae92a548f9be214ca4165f845c652a98))
-
-
+- bump stylelint to `16.2.1` ([085dc1e](https://github.com/stylelint-types/stylelint-scales/commit/085dc1e7cc85b92567f5a41896a5885163f77480))
+- update deps to latest ([e71be56](https://github.com/stylelint-types/stylelint-scales/commit/e71be568ae92a548f9be214ca4165f845c652a98))
 
 # 4.0.0 (2023-12-14)
 
-
 ### Features
 
-* add  entry types ([ef0e71e](https://github.com/stylelint-types/stylelint-scales/commit/ef0e71e217bb7464d345281eb6449245ec118719))
-* add `scales/*` rules ([2431829](https://github.com/stylelint-types/stylelint-scales/commit/2431829377768b52e0bc9b6f457deb88ecc3e537))
-
-
-
+- add entry types ([ef0e71e](https://github.com/stylelint-types/stylelint-scales/commit/ef0e71e217bb7464d345281eb6449245ec118719))
+- add `scales/*` rules ([2431829](https://github.com/stylelint-types/stylelint-scales/commit/2431829377768b52e0bc9b6f457deb88ecc3e537))
