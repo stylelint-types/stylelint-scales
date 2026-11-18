@@ -4,3 +4,5 @@ declare module 'stylelint-define-config' {
   export interface CustomPlugins extends Plugins {}
   export interface CustomRuleOptions extends RuleOptions {}
 }
+
+export type * from './types.js'
